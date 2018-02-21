@@ -7,6 +7,17 @@
 
 ###Principios de diseño
 1. KISS
+ 
+ El principio KISS lo implementamos evitando la complejidad en las clases 
+
+2. SOC
+
+ El principio SoC lo implentamos usando arquitectura de capas, para mejorar la funcionalidad del programa
+
+3. DRY
+  
+ El principio DRY estaba implementado en los atributos para evitar redundancia
+
 
 
 
