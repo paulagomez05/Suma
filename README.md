@@ -7,3 +7,6 @@
 
 ###Principios de diseño
 1. KISS
+
+
+
