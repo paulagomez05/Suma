@@ -19,5 +19,4 @@
  El principio DRY estaba implementado en los atributos para evitar redundancia
 
 
-
-
+![alt text](https://github.com/paulagomez05/Suma/blob/master/diagrma.png)
